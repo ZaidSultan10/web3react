@@ -8,7 +8,7 @@ import { Loader } from './';
 const Welcome = () => {
   return ( 
     <div>
-        <h1>Welcome</h1>
+        <h1>Welcome all</h1>
     </div>
 )};
 
